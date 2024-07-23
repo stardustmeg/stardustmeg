@@ -18,6 +18,7 @@
 [![Javascript][Javascript]][Javascript-url]
 [![TypeScript][TypeScript]][TypeScript-url]
 [![HTML5][HTML5]][HTML5-url]
+[![Markdown][Markdown]][Markdown-url]
 [![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
 [![PrimeNG][PrimeNG]][PrimeNG-url]
@@ -43,22 +44,22 @@
 [![Canva][Canva]][Canva-url]
 [![VSCode][VSCode]][VSCode-url]
 
-
-
-[Angular]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[Angular]: https://img.shields.io/badge/angular-C2185B.svg?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.dev/
-[RxJS]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[RxJS]: https://img.shields.io/badge/RxJS-B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white
 [RxJS-url]: https://rxjs.dev/
-[NgRx]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[NgRx]: https://img.shields.io/badge/ngrx-BA2BD2.svg?style=for-the-badge&logo=ngrx&logoColor=white
 [NgRx-url]: https://ngrx.io/
-[Redux]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[Redux]: https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white
 [Redux-url]: https://redux.js.org/
-[Javascript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-[Javascript-url]: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
-[TypeScript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
+[Javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org
-[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[HTML5]: https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://html.com/html5/
+[Markdown]: https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white
+[Markdown-url]: https://www.markdownguide.org/
 [CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://ru.wikipedia.org/wiki/CSS
 [SASS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -101,8 +102,8 @@
 [Vitest-url]: https://vitest.dev/
 [Jest]: https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
 [Jest-url]: https://vitest.dev/
-[UML]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[UML-url]: https://ru.wikipedia.org/wiki/CSS
+[UML]: https://img.shields.io/badge/uml-FABD14?style=for-the-badge&logo=uml&logoColor=white
+[UML-url]: https://www.uml.org/
 [Figma]: https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
 [Figma-url]: https://vitest.dev/
 [Canva]: https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
