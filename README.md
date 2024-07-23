@@ -2,6 +2,13 @@
 
 #### My name's Meg and currently I'm learning Angular ✨
 
+<h2>📱 Contact Me</h2>
+
+<div align="left" id="contact_badges">
+  <a href="https://t.me/stardustmeg" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></div>
+
+<div align="left"><img src="https://komarev.com/ghpvc/?username=stardustmeg&style=flat-square&color=blue" alt=""/></div>
+
 <h2>💻 My Tech Stack</h2>
 
 <h2>📊 Stats and Used Languages</h2>
