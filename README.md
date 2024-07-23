@@ -1,7 +1,16 @@
 ### Hi there 👋
 
-<h2>:bar_chart: Stats and used languages</h2>
+#### My name's Meg and currently I'm learning Angular ✨
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=stardustmeg&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stardustmeg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h2>💻 My Tech Stack</h2>
+
+<h2>📊 Stats and Used Languages</h2>
 
 [![wakatime](https://wakatime.com/badge/user/d48793bb-e82a-4894-bc66-e78cbb15b968.svg)](https://wakatime.com/@d48793bb-e82a-4894-bc66-e78cbb15b968)
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=stardustmeg&show_icons=true&theme=default"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=stardustmeg&theme=transparent">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stardustmeg&layout=compact&theme=default"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stardustmeg&theme=transparent"/>
+</div>
