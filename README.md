@@ -1,5 +1,8 @@
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=stardustmeg&txt=junior%20front-end%20developer%20learning%20Angular&bg=aliceblue&fill=black"></p>
 
+<h2>🌱 Latest Vanilla JS Project</h2>
+[Greenshop](https://github.com/stardustmeg/)
+
 <h2>📱 Contact Me</h2>
 
 <div align="left" id="contact_badges">
