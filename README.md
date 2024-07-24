@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1>My name's Meg and currently I'm learning Angular ✨</h1>
+[![MasterHead](github-header-image.png)](https://github.com/stardustmeg)
 
 <h2>📱 Contact Me</h2>
 
