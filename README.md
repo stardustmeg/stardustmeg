@@ -1,4 +1,4 @@
-[![Header](./header.png)](https://github.com/stardustmeg)
+[![Header](./header(1).png)](https://github.com/stardustmeg)
 
 <h2>📱 Contact Me</h2>
 
