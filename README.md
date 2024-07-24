@@ -68,7 +68,7 @@
 [Markdown]: https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white
 [Markdown-url]: https://www.markdownguide.org/
 [YAML]: https://img.shields.io/badge/yaml-CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white
-[YAML-url]: https://www.markdownguide.org/
+[YAML-url]: https://yaml.org/
 [CSS3]: https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [SASS]: https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
@@ -120,7 +120,7 @@
 [Trello]: https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 [Trello-url]: https://trello.com/
 [Miro]: https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white
-[Miro-url]: https://trello.com/
+[Miro-url]: https://miro.com/
 [Date-fns]: https://img.shields.io/badge/datefns-770C56?style=for-the-badge&logo=datefns&logoColor=white
 [Date-fns-url]: https://date-fns.org/
 [Figma]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
