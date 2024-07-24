@@ -38,8 +38,8 @@
 [![Stylelint][Stylelint]][Stylelint-url]
 [![editorconfig][editorconfig]][editorconfig-url]
 [![Postman][Postman]][Postman-url]
-[![WebSocket][WebSocket]][WebSocket-url]
 [![Zod][Zod]][Zod-url]
+[![WebSocket][WebSocket]][WebSocket-url]
 [![Vitest][Vitest]][Vitest-url]
 [![Jest][Jest]][Jest-url]
 [![Jasmine][Jasmine]][Jasmine-url]
@@ -105,10 +105,10 @@
 [editorconfig-url]: https://editorconfig.org/
 [Postman]: https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [Postman-url]: https://www.postman.com/
-[WebSocket]: https://img.shields.io/badge/WebSocket-615EFF?style=for-the-badge&logoColor=white
-[WebSocket-url]: https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
 [Zod]: https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white
 [Zod-url]: https://zod.dev/
+[WebSocket]: https://img.shields.io/badge/WebSocket-615EFF?style=for-the-badge&logoColor=white
+[WebSocket-url]: https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
 [Vitest]: https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
 [Vitest-url]: https://vitest.dev/
 [Jest]: https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white
