@@ -34,7 +34,6 @@
 [![Sonarlint][Sonarlint]][Sonarlint-url]
 [![Prettier][Prettier]][Prettier-url]
 [![Stylelint][Stylelint]][Stylelint-url]
-[![editorconfig][editorconfig]][editorconfig-url]
 [![Postman][Postman]][Postman-url]
 [![Zod][Zod]][Zod-url]
 [![WebSocket][WebSocket]][WebSocket-url]
