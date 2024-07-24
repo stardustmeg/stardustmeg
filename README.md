@@ -19,6 +19,7 @@
 [![TypeScript][TypeScript]][TypeScript-url]
 [![HTML5][HTML5]][HTML5-url]
 [![Markdown][Markdown]][Markdown-url]
+[![YAML][YAML]][YAML-url]
 [![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
 [![AngularMaterial][AngularMaterial]][AngularMaterial-url]
@@ -35,13 +36,17 @@
 [![Sonarlint][Sonarlint]][Sonarlint-url]
 [![Prettier][Prettier]][Prettier-url]
 [![Stylelint][Stylelint]][Stylelint-url]
+[![editorconfig][editorconfig]][editorconfig-url]
 [![Postman][Postman]][Postman-url]
 [![WebSocket][WebSocket]][WebSocket-url]
 [![Zod][Zod]][Zod-url]
 [![Vitest][Vitest]][Vitest-url]
 [![Jest][Jest]][Jest-url]
+[![Jasmine][Jasmine]][Jasmine-url]
 [![UML][UML]][UML-url]
 [![Trello][Trello]][Trello-url]
+[![Miro][Miro]][Miro-url]
+[![Date-fns][Date-fns]][Date-fns-url]
 [![Figma][Figma]][Figma-url]
 [![Canva][Canva]][Canva-url]
 [![VSCode][VSCode]][VSCode-url]
@@ -62,6 +67,8 @@
 [HTML5-url]: https://html.com/html5/
 [Markdown]: https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white
 [Markdown-url]: https://www.markdownguide.org/
+[YAML]: https://img.shields.io/badge/yaml-CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white
+[YAML-url]: https://www.markdownguide.org/
 [CSS3]: https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [SASS]: https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
@@ -84,7 +91,7 @@
 [Vite-url]: https://vitejs.dev/
 [Webpack]: https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white
 [Webpack-url]: https://webpack.js.org/
-[Husky]: https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logoColor=white
+[Husky]: https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logo=lazarus&logoColor=white
 [Husky-url]: https://typicode.github.io/husky/
 [Eslint]: https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white
 [Eslint-url]: https://eslint.org/
@@ -94,6 +101,8 @@
 [Prettier-url]: https://prettier.io/
 [Stylelint]: https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white
 [Stylelint-url]: https://stylelint.io/
+[editorconfig]: https://img.shields.io/badge/editorconfig-FEFEFE?style=for-the-badge&logo=editorconfig&logoColor=262729
+[editorconfig-url]: https://editorconfig.org/
 [Postman]: https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [Postman-url]: https://www.postman.com/
 [WebSocket]: https://img.shields.io/badge/WebSocket-615EFF?style=for-the-badge&logoColor=white
@@ -104,10 +113,16 @@
 [Vitest-url]: https://vitest.dev/
 [Jest]: https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white
 [Jest-url]: https://jestjs.io/
+[Jasmine]: https://img.shields.io/badge/jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white
+[Jasmine-url]: https://jasmine.github.io/
 [UML]: https://img.shields.io/badge/uml-FABD14?style=for-the-badge&logo=uml&logoColor=white
 [UML-url]: https://www.uml.org/
 [Trello]: https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 [Trello-url]: https://trello.com/
+[Miro]: https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white
+[Miro-url]: https://trello.com/
+[Date-fns]: https://img.shields.io/badge/datefns-770C56?style=for-the-badge&logo=datefns&logoColor=white
+[Date-fns-url]: https://date-fns.org/
 [Figma]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [Figma-url]: https://www.figma.com/
 [Canva]: https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white
