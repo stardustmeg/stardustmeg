@@ -1,4 +1,4 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=stardustmeg&txt=junior%20front-end%20developer%20learning%20Angular&bg=lightskyblue&fill=black"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=stardustmeg&txt=junior%20front-end%20developer%20learning%20Angular&bg=aliceblue&fill=black"></p>
 
 <h2>📱 Contact Me</h2>
 
