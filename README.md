@@ -21,11 +21,13 @@
 [![Markdown][Markdown]][Markdown-url]
 [![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
+[![AngularMaterial][AngularMaterial]][AngularMaterial-url]
 [![PrimeNG][PrimeNG]][PrimeNG-url]
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
 [![GitHubActions][GitHubActions]][GitHubActions-url]
 [![Netlify][Netlify]][Netlify-url]
+[![npm][npm]][npm-url]
 [![Vite][Vite]][Vite-url]
 [![Webpack][Webpack]][Webpack-url]
 [![Husky][Husky]][Husky-url]
@@ -33,13 +35,13 @@
 [![Sonarlint][Sonarlint]][Sonarlint-url]
 [![Prettier][Prettier]][Prettier-url]
 [![Stylelint][Stylelint]][Stylelint-url]
-[![Lint-staged][Lint-staged]][Lint-staged-url]
 [![Postman][Postman]][Postman-url]
 [![WebSocket][WebSocket]][WebSocket-url]
 [![Zod][Zod]][Zod-url]
 [![Vitest][Vitest]][Vitest-url]
 [![Jest][Jest]][Jest-url]
 [![UML][UML]][UML-url]
+[![Trello][Trello]][Trello-url]
 [![Figma][Figma]][Figma-url]
 [![Canva][Canva]][Canva-url]
 [![VSCode][VSCode]][VSCode-url]
@@ -60,57 +62,58 @@
 [HTML5-url]: https://html.com/html5/
 [Markdown]: https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white
 [Markdown-url]: https://www.markdownguide.org/
-[CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[CSS3-url]: https://ru.wikipedia.org/wiki/CSS
-[SASS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[SASS-url]: https://ru.wikipedia.org/wiki/CSS
-[Angular Material]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3]: https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[SASS]: https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+[SASS-url]: https://sass-lang.com/
+[AngularMaterial]: https://img.shields.io/badge/Material-F9A825?style=for-the-badge&logo=angular&logoColor=white
 [AngularMaterial-url]: https://material.angular.io/
-[PrimeNG]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[PrimeNG]: https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=PrimeNG&logoColor=white
 [PrimeNG-url]: https://primeng.org/
-[Git]: ./public/git.svg
+[Git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
-[GitHub]: ./public/git.svg
-[GitHub-url]: https://git-scm.com/
-[GitHubActions]: ./public/git.svg
-[GitHubActions-url]: https://git-scm.com/
-[Netlify]: https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7
+[GitHub]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white
+[GitHub-url]: https://github.com/
+[GitHubActions]: https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+[GitHubActions-url]: https://github.com/features/actions
+[npm]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+[npm-url]: https://www.npmjs.com/
+[Netlify]: https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white
 [Netlify-url]: https://www.netlify.com/
-[Vite]: https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
+[Vite]: https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
 [Vite-url]: https://vitejs.dev/
-[Webpack]: https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white
+[Webpack]: https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white
 [Webpack-url]: https://webpack.js.org/
-[Husky]: ./public/husky.png
+[Husky]: https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logoColor=white
 [Husky-url]: https://typicode.github.io/husky/
-[Eslint]: https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
+[Eslint]: https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white
 [Eslint-url]: https://eslint.org/
-[Sonarlint]: https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
-[Sonarlint-url]: https://eslint.org/
-[Prettier]: https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E
+[Sonarlint]: https://img.shields.io/badge/sonarlint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white
+[Sonarlint-url]: https://www.sonarsource.com/products/sonarlint/
+[Prettier]: https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=263238
 [Prettier-url]: https://prettier.io/
-[Stylelint]: https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white
+[Stylelint]: https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white
 [Stylelint-url]: https://stylelint.io/
-[Lint-staged]: ./public/lint-staged.png
-[Lint-staged-url]: https://npmjs.com/package/lint-staged/v/12.3.2
-[Postman]: https://img.shields.io/badge/-Zod-3E67B1?style=flat&logo=zod&logoColor=white
-[Postman-url]: https://zod.dev/
-[WebSocket]: https://img.shields.io/badge/-Zod-3E67B1?style=flat&logo=zod&logoColor=white
-[WebSocket-url]: https://zod.dev/
-[Zod]: https://img.shields.io/badge/-Zod-3E67B1?style=flat&logo=zod&logoColor=white
+[Postman]: https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+[Postman-url]: https://www.postman.com/
+[WebSocket]: https://img.shields.io/badge/WebSocket-615EFF?style=for-the-badge&logoColor=white
+[WebSocket-url]: https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
+[Zod]: https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white
 [Zod-url]: https://zod.dev/
 [Vitest]: https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
 [Vitest-url]: https://vitest.dev/
-[Jest]: https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
-[Jest-url]: https://vitest.dev/
+[Jest]: https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white
+[Jest-url]: https://jestjs.io/
 [UML]: https://img.shields.io/badge/uml-FABD14?style=for-the-badge&logo=uml&logoColor=white
 [UML-url]: https://www.uml.org/
-[Figma]: https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
-[Figma-url]: https://vitest.dev/
-[Canva]: https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
-[Canva-url]: https://vitest.dev/
-[VSCode]: https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
-[VSCode-url]: https://vitest.dev/
-
+[Trello]: https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
+[Trello-url]: https://trello.com/
+[Figma]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+[Figma-url]: https://www.figma.com/
+[Canva]: https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white
+[Canva-url]: https://www.canva.com/
+[VSCode]: https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logoColor=white
+[VSCode-url]: https://code.visualstudio.com/
 
 <h2>📊 Stats and Used Languages</h2>
 
