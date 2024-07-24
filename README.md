@@ -130,6 +130,49 @@
 [VSCode]: https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logoColor=white
 [VSCode-url]: https://code.visualstudio.com/
 
+<h2>💻 My Tech Stack</h2>
+
+<a href="https://angular.dev/" target="_blank"><img src="https://img.shields.io/badge/angular-C2185B.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
+<a href="https://rxjs.dev/" target="_blank"><img src="https://img.shields.io/badge/RxJS-B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"></a>
+<a href="https://ngrx.io/" target="_blank"><img src="https://img.shields.io/badge/ngrx-BA2BD2.svg?style=for-the-badge&logo=ngrx&logoColor=white" alt="NgRx"></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+<a href="https://html.com/html5/" target="_blank"><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+<a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"></a>
+<a href="https://yaml.org/" target="_blank"><img src="https://img.shields.io/badge/yaml-CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"></a>
+<a href="https://material.angular.io/" target="_blank"><img src="https://img.shields.io/badge/Material-F9A825?style=for-the-badge&logo=angular&logoColor=white" alt="AngularMaterial"></a>
+<a href="https://primeng.org/" target="_blank"><img src="https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=PrimeNG&logoColor=white" alt="PrimeNG"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHubActions"></a>
+<a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
+<a href="https://www.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>
+<a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
+<a href="https://webpack.js.org/" target="_blank"><img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack"></a>
+<a href="https://typicode.github.io/husky/" target="_blank"><img src="https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logo=lazarus&logoColor=white" alt="Husky"></a>
+<a href="https://eslint.org/" target="_blank"><img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="Eslint"></a>
+<a href="https://www.sonarsource.com/products/sonarlint/" target="_blank"><img src="https://img.shields.io/badge/sonarlint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" alt="Sonarlint"></a>
+<a href="https://prettier.io/" target="_blank"><img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=263238" alt="Prettier"></a>
+<a href="https://stylelint.io/" target="_blank"><img src="https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white" alt="Stylelint"></a>
+<a href="https://editorconfig.org/" target="_blank"><img src="https://img.shields.io/badge/editorconfig-FEFEFE?style=for-the-badge&logo=editorconfig&logoColor=262729" alt="editorconfig"></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
+<a href="https://zod.dev/" target="_blank"><img src="https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket" target="_blank"><img src="https://img.shields.io/badge/WebSocket-615EFF?style=for-the-badge&logoColor=white" alt="WebSocket"></a>
+<a href="https://vitest.dev/" target="_blank"><img src="https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"></a>
+<a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"></a>
+<a href="https://jasmine.github.io/" target="_blank"><img src="https://img.shields.io/badge/jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine"></a>
+<a href="https://www.uml.org/" target="_blank"><img src="https://img.shields.io/badge/uml-FABD14?style=for-the-badge&logo=uml&logoColor=white" alt="UML"></a>
+<a href="https://trello.com/" target="_blank"><img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"></a>
+<a href="https://miro.com/" target="_blank"><img src="https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"></a>
+<a href="https://date-fns.org/" target="_blank"><img src="https://img.shields.io/badge/datefns-770C56?style=for-the-badge&logo=datefns&logoColor=white" alt="Date-fns"></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+<a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logoColor=white" alt="VSCode"></a>
+
+
 <h2>📊 Stats and Used Languages</h2>
 
 [![wakatime](https://wakatime.com/badge/user/d48793bb-e82a-4894-bc66-e78cbb15b968.svg)](https://wakatime.com/@d48793bb-e82a-4894-bc66-e78cbb15b968)
