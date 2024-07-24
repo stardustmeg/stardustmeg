@@ -2,9 +2,9 @@
 
 <h2>🌱 Latest Vanilla JS Project</h2>
 
-📑 <a href="https://github.com/stardustmeg/greenshop?tab=readme-ov-file#greenshop-" target="_blank" rel="noopener noreferrer">Greenshop Description</a>
+📑 <a href="https://github.com/stardustmeg/greenshop?tab=readme-ov-file#greenshop-" target="_blank">Greenshop Description</a>
 
-🪴 <a href="https://mad-wizards-greenshop.netlify.app/" target="_blank" rel="noopener noreferrer">Greenshop Deploy</a>
+🪴 <a href="https://mad-wizards-greenshop.netlify.app/" target="_blank">Greenshop Deploy</a>
 
 <h2>📱 Contact Me</h2>
 
