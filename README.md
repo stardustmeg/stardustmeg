@@ -1,6 +1,6 @@
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=stardustmeg&txt=junior%20front-end%20developer%20learning%20Angular&bg=aliceblue&fill=black"></p>
 
-<h2>🌱 Latest Vanilla JS Project</h2>
+<h2>🌱 Latest Vanilla TS Project</h2>
 
 📑 <a href="https://github.com/stardustmeg/greenshop?tab=readme-ov-file#greenshop-" target="_blank">Greenshop Description</a>
 
