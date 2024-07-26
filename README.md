@@ -41,6 +41,7 @@
 [![Prettier][Prettier]][Prettier-url]
 [![Stylelint][Stylelint]][Stylelint-url]
 [![Postman][Postman]][Postman-url]
+[![Axios][Axios]][Axios-url]
 [![Zod][Zod]][Zod-url]
 [![WebSocket][WebSocket]][WebSocket-url]
 [![Vitest][Vitest]][Vitest-url]
@@ -108,6 +109,8 @@
 [editorconfig-url]: https://editorconfig.org/
 [Postman]: https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [Postman-url]: https://www.postman.com/
+[Axios]: https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white
+[Axios-url]: https://axios-http.com/
 [Zod]: https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white
 [Zod-url]: https://zod.dev/
 [WebSocket]: https://img.shields.io/badge/WebSocket-615EFF?style=for-the-badge&logoColor=white
