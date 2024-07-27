@@ -70,7 +70,7 @@
 [TypeScript-url]: https://www.typescriptlang.org
 [HTML5]: https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://html.com/html5/
-[SQL]: https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logoColor=white
+[SQL]: https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
 [SQL-url]: https://www.w3schools.com/sql/
 [Markdown]: https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white
 [Markdown-url]: https://www.markdownguide.org/
