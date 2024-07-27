@@ -23,6 +23,7 @@
 [![TypeScript][TypeScript]][TypeScript-url]
 [![HTML5][HTML5]][HTML5-url]
 [![YAML][YAML]][YAML-url]
+[![SQL][SQL]][SQL-url]
 [![Markdown][Markdown]][Markdown-url]
 [![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
@@ -42,7 +43,6 @@
 [![Stylelint][Stylelint]][Stylelint-url]
 [![Postman][Postman]][Postman-url]
 [![Axios][Axios]][Axios-url]
-[![postgresql][postgresql]][postgresql-url]
 [![Zod][Zod]][Zod-url]
 [![WebSocket][WebSocket]][WebSocket-url]
 [![Vitest][Vitest]][Vitest-url]
@@ -70,6 +70,8 @@
 [TypeScript-url]: https://www.typescriptlang.org
 [HTML5]: https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://html.com/html5/
+[SQL]: https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logoColor=white
+[SQL-url]: https://www.w3schools.com/sql/
 [Markdown]: https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white
 [Markdown-url]: https://www.markdownguide.org/
 [YAML]: https://img.shields.io/badge/yaml-CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white
