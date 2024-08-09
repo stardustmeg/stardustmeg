@@ -44,6 +44,7 @@
 [![Webpack][Webpack]][Webpack-url]
 [![Husky][Husky]][Husky-url]
 [![Eslint][Eslint]][Eslint-url]
+[![Airbnb][Airbnb]][Airbnb-url]
 [![Sonarlint][Sonarlint]][Sonarlint-url]
 [![Prettier][Prettier]][Prettier-url]
 [![Stylelint][Stylelint]][Stylelint-url]
@@ -108,6 +109,8 @@
 [Husky-url]: https://typicode.github.io/husky/
 [Eslint]: https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white
 [Eslint-url]: https://eslint.org/
+[Airbnb]: https://img.shields.io/badge/airbnb-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white
+[Airbnb-url]: https://github.com/airbnb/javascript
 [Sonarlint]: https://img.shields.io/badge/sonarlint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white
 [Sonarlint-url]: https://www.sonarsource.com/products/sonarlint/
 [Prettier]: https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=263238
