@@ -105,7 +105,7 @@
 [Vite-url]: https://vitejs.dev/
 [Webpack]: https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white
 [Webpack-url]: https://webpack.js.org/
-[Husky]: https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logo=lazarus&logoColor=white
+[Husky]: https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logo=furrynetwork&logoColor=white
 [Husky-url]: https://typicode.github.io/husky/
 [Eslint]: https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white
 [Eslint-url]: https://eslint.org/
