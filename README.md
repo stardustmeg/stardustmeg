@@ -35,6 +35,7 @@
 [![SASS][SASS]][SASS-url]
 [![AngularMaterial][AngularMaterial]][AngularMaterial-url]
 [![PrimeNG][PrimeNG]][PrimeNG-url]
+[![NgZorro][NgZorro]][NgZorro-url]
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
 [![GitHubActions][GitHubActions]][GitHubActions-url]
@@ -91,6 +92,8 @@
 [AngularMaterial-url]: https://material.angular.io/
 [PrimeNG]: https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=PrimeNG&logoColor=white
 [PrimeNG-url]: https://primeng.org/
+[NgZorro]: https://img.shields.io/badge/NgZorro-0170FE?style=for-the-badge&logo=antdesign&logoColor=white
+[NgZorro-url]: https://ng.ant.design/docs/introduce/en
 [Git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
 [GitHub]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white
