@@ -1,6 +1,6 @@
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=stardustmeg&txt=junior%20front-end%20developer%20learning%20Angular%20in%20RS%20School&bg=aliceblue&fill=black"></p>
 
-<h2>🎬 Current Angular Project (in progress)</h2>
+<h2>🎬 Current Angular Project</h2>
 
 📑 <a href="https://github.com/rolling-scopes-school/tasks/tree/master/tasks/angular" target="_blank">Task Requirements Description</a>
 
