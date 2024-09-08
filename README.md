@@ -59,7 +59,6 @@
 [![UML][UML]][UML-url]
 [![Trello][Trello]][Trello-url]
 [![Miro][Miro]][Miro-url]
-[![Date-fns][Date-fns]][Date-fns-url]
 [![Figma][Figma]][Figma-url]
 [![Canva][Canva]][Canva-url]
 [![VSCode][VSCode]][VSCode-url]
