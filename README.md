@@ -143,8 +143,6 @@
 [Trello-url]: https://trello.com/
 [Miro]: https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white
 [Miro-url]: https://miro.com/
-[Date-fns]: https://img.shields.io/badge/datefns-770C56?style=for-the-badge&logo=datefns&logoColor=white
-[Date-fns-url]: https://date-fns.org/
 [Figma]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [Figma-url]: https://www.figma.com/
 [Canva]: https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white
