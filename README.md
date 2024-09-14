@@ -1,6 +1,12 @@
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=stardustmeg&txt=junior%20front-end%20developer%20learning%20Angular%20in%20RS%20School&bg=aliceblue&fill=black"></p>
 
-<h2>🎬 Latest Angular Project</h2>
+<h2>🚂 Latest Angular Project</h2>
+
+📑 <a href="https://github.com/rolling-scopes-school/tasks/tree/master/tasks/train-a" target="_blank">Task Requirements Description</a>
+
+🚉 <a href="https://mad-wizards-tu-tu.netlify.app/" target="_blank">Tu-tu App Deploy</a>
+
+<h2>🎬 School Angular Project</h2>
 
 📑 <a href="https://github.com/rolling-scopes-school/tasks/tree/master/tasks/angular" target="_blank">Task Requirements Description</a>
 
