@@ -1,4 +1,4 @@
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=stardustmeg&txt=junior%20front-end%20developer%20learning%20Node.js%20in%20RS%20School&bg=aliceblue&fill=black"></p>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=stardustmeg&txt=front-end%20developer;%20alumni%20and%20course%20coordinator%20in%20RS%20School&bg=aliceblue&fill=black"></p>
 
 <h2>🚂 Latest Angular Project</h2>
 
