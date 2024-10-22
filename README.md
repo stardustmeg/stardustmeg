@@ -1,29 +1,21 @@
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=stardustmeg&txt=front-end%20developer;%20alumni%20and%20course%20coordinator%20in%20RS%20School&bg=aliceblue&fill=black"></p>
 
-<h2>🚂 Latest Angular Project</h2>
-
-📑 <a href="https://github.com/rolling-scopes-school/tasks/tree/master/tasks/train-a" target="_blank">Task Requirements Description</a>
-
-🚉 <a href="https://mad-wizards-tu-tu.netlify.app/" target="_blank">Tu-tu App Deploy</a>
-
-<h2>🎬 School Angular Project</h2>
-
-📑 <a href="https://github.com/rolling-scopes-school/tasks/tree/master/tasks/angular" target="_blank">Task Requirements Description</a>
-
-🎥 <a href="https://stardustmeg-angular2024q3-youtube.netlify.app/" target="_blank">YouTube Client App Deploy</a>
-
-<h2>🌱 Latest Vanilla TS Commercetools Project</h2>
-
-📑 <a href="https://github.com/stardustmeg/greenshop?tab=readme-ov-file#greenshop-" target="_blank">Greenshop Description</a>
-
-🪴 <a href="https://mad-wizards-greenshop.netlify.app/" target="_blank">Greenshop Deploy</a>
-
 <h2>📱 Contact Me</h2>
 
 <div align="left" id="contact_badges">
-  <a href="https://t.me/stardustmeg" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></div>
+  <a href="https://t.me/stardustmeg" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</div>
 
 <div align="left"><img src="https://komarev.com/ghpvc/?username=stardustmeg&style=flat-square&color=blue" alt=""/></div>
+
+<h2>🌟 Personal Projects</h2>
+
+- 🎬 [Angular Project](https://github.com/stardustmeg/rss-youtube)
+
+<h2>🤝 Collaborations</h2>
+
+- 🌱 [Vanilla TS Commercetools Project](https://github.com/stardustmeg/greenshop)
+- 🚂 [Angular Project](https://github.com/kleostro/tu-tu)
 
 <h2>💻 My Tech Stack</h2>
 
@@ -36,6 +28,7 @@
 [![HTML5][HTML5]][HTML5-url]
 [![YAML][YAML]][YAML-url]
 [![SQL][SQL]][SQL-url]
+[![Python][Python]][Python-url]
 [![Markdown][Markdown]][Markdown-url]
 [![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
@@ -85,6 +78,8 @@
 [HTML5-url]: https://html.com/html5/
 [SQL]: https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
 [SQL-url]: https://www.w3schools.com/sql/
+[Python]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
 [Markdown]: https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white
 [Markdown-url]: https://www.markdownguide.org/
 [YAML]: https://img.shields.io/badge/yaml-CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white
@@ -161,6 +156,12 @@
 [![wakatime](https://wakatime.com/badge/user/d48793bb-e82a-4894-bc66-e78cbb15b968.svg)](https://wakatime.com/@d48793bb-e82a-4894-bc66-e78cbb15b968)
 
 <div align="center">
+  
+  [![Codewars](https://github.r2v.ch/codewars?user=stardustmeg&theme=gradient_light)](https://www.codewars.com/users/stardustmeg)
+
+</div>
+
+<div align="center">  
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=stardustmeg&theme=transparent"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=stardustmeg&show_icons=true&theme=default"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stardustmeg&layout=compact&theme=default"/>
