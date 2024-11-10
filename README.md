@@ -27,8 +27,10 @@
 [![TypeScript][TypeScript]][TypeScript-url]
 [![HTML5][HTML5]][HTML5-url]
 [![YAML][YAML]][YAML-url]
-[![SQL][SQL]][SQL-url]
 [![Python][Python]][Python-url]
+[![SQL][SQL]][SQL-url]
+[![MySQL][MySQL]][MySQL-url]
+[![dbeaver][dbeaver]][dbeaver-url]
 [![Markdown][Markdown]][Markdown-url]
 [![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
@@ -76,10 +78,14 @@
 [TypeScript-url]: https://www.typescriptlang.org
 [HTML5]: https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://html.com/html5/
-[SQL]: https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-[SQL-url]: https://www.w3schools.com/sql/
 [Python]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
+[SQL]: https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+[SQL-url]: https://www.w3schools.com/sql/
+[MySQL]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com/
+[dbeaver]: https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white
+[dbeaver-url]: https://dbeaver.io/
 [Markdown]: https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white
 [Markdown-url]: https://www.markdownguide.org/
 [YAML]: https://img.shields.io/badge/yaml-CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white
