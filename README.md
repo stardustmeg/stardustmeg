@@ -30,6 +30,7 @@
 [![Python][Python]][Python-url]
 [![SQL][SQL]][SQL-url]
 [![MySQL][MySQL]][MySQL-url]
+[![pandas][pandas]][pandas-url]
 [![dbeaver][dbeaver]][dbeaver-url]
 [![Markdown][Markdown]][Markdown-url]
 [![CSS3][CSS3]][CSS3-url]
@@ -39,6 +40,7 @@
 [![NgZorro][NgZorro]][NgZorro-url]
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
+[![Docker][Docker]][Docker-url]
 [![GitHubActions][GitHubActions]][GitHubActions-url]
 [![Netlify][Netlify]][Netlify-url]
 [![npm][npm]][npm-url]
@@ -84,6 +86,8 @@
 [SQL-url]: https://www.w3schools.com/sql/
 [MySQL]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com/
+[pandas]: https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[pandas-url]: https://pandas.pydata.org/
 [dbeaver]: https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white
 [dbeaver-url]: https://dbeaver.io/
 [Markdown]: https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white
@@ -104,6 +108,8 @@
 [Git-url]: https://git-scm.com/
 [GitHub]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com/
+[Docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
 [GitHubActions]: https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
 [GitHubActions-url]: https://github.com/features/actions
 [npm]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
