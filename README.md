@@ -19,6 +19,9 @@
 
 <h2>💻 My Tech Stack</h2>
 
+[![VueJs][VueJs]][VueJs-url]
+[![PrimeVue][PrimeVue]][PrimeVue-url]
+[![TanStack][TanStack]][TanStack-url]
 [![Angular][Angular]][Angular-url]
 [![RxJS][RxJS]][RxJS-url]
 [![NgRx][NgRx]][NgRx-url]
@@ -55,6 +58,7 @@
 [![Postman][Postman]][Postman-url]
 [![Axios][Axios]][Axios-url]
 [![Zod][Zod]][Zod-url]
+[![Yup][Yup]][Yup-url]
 [![WebSocket][WebSocket]][WebSocket-url]
 [![Vitest][Vitest]][Vitest-url]
 [![Jest][Jest]][Jest-url]
@@ -66,6 +70,12 @@
 [![Canva][Canva]][Canva-url]
 [![VSCode][VSCode]][VSCode-url]
 
+[VueJs]: https://img.shields.io/badge/VueJs-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white
+[VueJs-url]: https://vuejs.org/
+[PrimeVue]: https://img.shields.io/badge/PrimeVue-41B883.svg?style=for-the-badge&logo=primevue&logoColor=white
+[PrimeVue-url]: https://primevue.org/
+[TanStack]: https://img.shields.io/badge/TanStack-F0047F.svg?style=for-the-badge&logoColor=white
+[TanStack-url]: https://tanstack.com/
 [Angular]: https://img.shields.io/badge/angular-C2185B.svg?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.dev/
 [RxJS]: https://img.shields.io/badge/RxJS-B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white
@@ -142,6 +152,8 @@
 [postgresql-url]: https://www.postgresql.org/
 [Zod]: https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white
 [Zod-url]: https://zod.dev/
+[Yup]: https://img.shields.io/badge/-Yup-002C5E?style=for-the-badge&logoColor=white
+[Yup-url]: https://github.com/jquense/yup
 [WebSocket]: https://img.shields.io/badge/WebSocket-615EFF?style=for-the-badge&logoColor=white
 [WebSocket-url]: https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
 [Vitest]: https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
