@@ -21,13 +21,13 @@
 
 <h2>💻 My Tech Stack</h2>
 
-<h3>🚀 Front-End Frameworks</h3>
+<h4>🚀 Front-End Frameworks</h4>
 
 [![VueJs][VueJs]][VueJs-url]
 [![Angular][Angular]][Angular-url]
 [![React][React]][React-url]
 
-<h3>📚 UI Libraries & Components</h3>
+<h4>📚 UI Libraries & Components</h4>
 
 [![PrimeVue][PrimeVue]][PrimeVue-url]
 [![Tailwind][Tailwind]][Tailwind-url]
@@ -35,7 +35,7 @@
 [![AngularMaterial][AngularMaterial]][AngularMaterial-url]
 [![TaigaUI][TaigaUI]][TaigaUI-url]
 
-<h3>⚙️ State Management & Utilities</h3>
+<h4>⚙️ State Management & Utilities</h4>
 
 [![RxJS][RxJS]][RxJS-url]
 [![Redux][Redux]][Redux-url]
@@ -44,7 +44,7 @@
 [![Zod][Zod]][Zod-url]
 [![Yup][Yup]][Yup-url]
 
-<h3>🧠 Languages & Core Tech</h3>
+<h4>🧠 Languages & Core Tech</h4>
 
 [![Javascript][Javascript]][Javascript-url]
 [![TypeScript][TypeScript]][TypeScript-url]
@@ -53,7 +53,7 @@
 [![Markdown][Markdown]][Markdown-url]
 [![YAML][YAML]][YAML-url]
 
-<h3>📊 Data & Databases</h3>
+<h4>📊 Data & Databases</h4>
 
 [![Python][Python]][Python-url]
 [![SQL][SQL]][SQL-url]
@@ -61,7 +61,7 @@
 [![pandas][pandas]][pandas-url]
 [![dbeaver][dbeaver]][dbeaver-url]
 
-<h3>🔍 Code Quality</h3>
+<h4>🔍 Code Quality</h4>
 
 [![Husky][Husky]][Husky-url]
 [![Eslint][Eslint]][Eslint-url]
@@ -69,7 +69,7 @@
 [![Stylelint][Stylelint]][Stylelint-url]
 [![Sonarlint][Sonarlint]][Sonarlint-url]
 
-<h3>🛠️ Tooling & CI/CD</h3>
+<h4>🛠️ Tooling & CI/CD</h4>
 
 [![Vite][Vite]][Vite-url]
 [![Git][Git]][Git-url]
@@ -77,7 +77,7 @@
 [![GitHubActions][GitHubActions]][GitHubActions-url]
 [![Netlify][Netlify]][Netlify-url]
 
-<h3>🧪 Testing</h3>
+<h4>🧪 Testing</h4>
 
 [![Vitest][Vitest]][Vitest-url]
 [![Jest][Jest]][Jest-url]
@@ -86,13 +86,13 @@
 [![Playwright][Playwright]][Playwright-url]
 [![Puppeteer][Puppeteer]][Puppeteer-url]
 
-<h3>🌐 API & Networking</h3>
+<h4>🌐 API & Networking</h4>
 
 [![Axios][Axios]][Axios-url]
 [![WebSocket][WebSocket]][WebSocket-url]
 [![Postman][Postman]][Postman-url]
 
-<h3>🎨 Planning & Design</h3>
+<h4>🎨 Planning & Design</h4>
 
 [![UML][UML]][UML-url]
 [![Trello][Trello]][Trello-url]
