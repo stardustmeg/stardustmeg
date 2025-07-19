@@ -10,6 +10,8 @@
 
 <h2>🌟 Personal Projects</h2>
 
+- 🥒 [React Project: WIP](https://stardustmeg-rick-and-morty.netlify.app/)
+
 - 🎬 [Angular Project](https://github.com/stardustmeg/rss-youtube)
 
 <h2>🤝 Collaborations</h2>
